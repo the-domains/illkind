@@ -1,14 +1,14 @@
-layout_spectrum: 0.8914894
+layout_spectrum: 0.6595744
 color:
-  saturation: 0.9446809
-  lightness: 0.5234042
-  brandStrength: 0.6473336
+  saturation: 0.3170213
+  lightness: 0.6425532
+  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#C9DA66'
     - '#64635E'
     - '#1A1704'
     - '#8AA746'
-  rhythmicContrast: 0.8340425
-typography_spectrum: 0.5787234
+  rhythmicContrast: 0.2702128
+typography_spectrum: 0.06382979
 name: illkind
