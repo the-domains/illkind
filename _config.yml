@@ -1,14 +1,26 @@
-layout_spectrum: 0.6595744
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3170213
-  lightness: 0.6425532
   brandStrength: 1
+  rhythmicContrast: 0.2702128
   brandColors:
     - '#FFFFFF'
     - '#C9DA66'
     - '#64635E'
     - '#1A1704'
     - '#8AA746'
-  rhythmicContrast: 0.2702128
-typography_spectrum: 0.06382979
+  lightness: 0.6425532
+typography_spectrum: 0.05106383
+layout_spectrum: 0.9510638
 name: illkind
