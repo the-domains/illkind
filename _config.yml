@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.05106383
 color:
   saturation: 0.3170213
   brandStrength: 1
@@ -22,5 +21,6 @@ color:
     - '#1A1704'
     - '#8AA746'
   lightness: 0.6425532
+typography_spectrum: 0.5021276
 layout_spectrum: 0.8340425
 name: illkind
